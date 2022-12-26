@@ -45,3 +45,5 @@ Topics covered in these lectures are:
     - Dynamical dark energy
     - Modified gravity
     - Growth history and observational tests 
+
+Video recordings of these lectures are also available to students and staff of University of Portsmouth.
